@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/salabeta/robocomp/classes/qlog/qlog.cpp
+/home/jose/robocomp/classes/qlog/qlog.cpp
 qlog.h
-/home/salabeta/robocomp/classes/qlog/qlog.h
+/home/jose/robocomp/classes/qlog/qlog.h
 
-/home/salabeta/robocomp/classes/qlog/qlog.h
+/home/jose/robocomp/classes/qlog/qlog.h
 config.h
-/home/salabeta/robocomp/classes/qlog/config.h
+/home/jose/robocomp/classes/qlog/config.h
 QtCore
 -
 iostream
@@ -20,11 +20,11 @@ iostream
 Logger.h
 -
 
-/home/salabeta/robocomp/classes/rapplication/rapplication.cpp
+/home/jose/robocomp/classes/rapplication/rapplication.cpp
 rapplication.h
-/home/salabeta/robocomp/classes/rapplication/rapplication.h
+/home/jose/robocomp/classes/rapplication/rapplication.h
 
-/home/salabeta/robocomp/classes/rapplication/rapplication.h
+/home/jose/robocomp/classes/rapplication/rapplication.h
 Ice/Ice.h
 -
 Ice/Application.h
@@ -34,7 +34,7 @@ IceUtil/IceUtil.h
 QtCore
 -
 
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/CommonBehavior.cpp
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/CommonBehavior.cpp
 CommonBehavior.h
 -
 Ice/LocalException.h
@@ -48,7 +48,7 @@ Ice/Object.h
 IceUtil/Iterator.h
 -
 
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/DifferentialRobot.cpp
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/DifferentialRobot.cpp
 DifferentialRobot.h
 -
 Ice/LocalException.h
@@ -62,7 +62,7 @@ Ice/Object.h
 IceUtil/Iterator.h
 -
 
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/Laser.cpp
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/Laser.cpp
 Laser.h
 -
 Ice/LocalException.h
@@ -76,7 +76,7 @@ Ice/Object.h
 IceUtil/Iterator.h
 -
 
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/RCISMousePicker.cpp
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/RCISMousePicker.cpp
 RCISMousePicker.h
 -
 Ice/LocalException.h
@@ -90,25 +90,25 @@ Ice/Object.h
 IceUtil/Iterator.h
 -
 
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/choca_automoc.cpp
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/choca_automoc.cpp
 moc_commonbehaviorI.cpp
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/moc_commonbehaviorI.cpp
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/moc_commonbehaviorI.cpp
 moc_genericmonitor.cpp
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/moc_genericmonitor.cpp
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/moc_genericmonitor.cpp
 moc_genericworker.cpp
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/moc_genericworker.cpp
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/moc_genericworker.cpp
 moc_rcismousepickerI.cpp
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/moc_rcismousepickerI.cpp
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/moc_rcismousepickerI.cpp
 moc_specificmonitor.cpp
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/moc_specificmonitor.cpp
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/moc_specificmonitor.cpp
 moc_specificworker.cpp
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/moc_specificworker.cpp
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/moc_specificworker.cpp
 
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/commonbehaviorI.cpp
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/commonbehaviorI.cpp
 commonbehaviorI.h
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/commonbehaviorI.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/commonbehaviorI.h
 
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/commonbehaviorI.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/commonbehaviorI.h
 QtCore/QObject
 -
 Ice/Ice.h
@@ -118,37 +118,37 @@ CommonBehavior.h
 config.h
 -
 genericworker.h
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/genericworker.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/genericworker.h
 genericmonitor.h
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/genericmonitor.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/genericmonitor.h
 
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/config.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/config.h
 
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/genericmonitor.cpp
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/genericmonitor.cpp
 genericmonitor.h
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/genericmonitor.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/genericmonitor.h
 
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/genericmonitor.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/genericmonitor.h
 Ice/Ice.h
 -
 QtCore
 -
 genericworker.h
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/genericworker.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/genericworker.h
 config.h
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/config.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/config.h
 qlog/qlog.h
 -
 CommonBehavior.h
 -
 
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/genericworker.cpp
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/genericworker.cpp
 genericworker.h
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/genericworker.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/genericworker.h
 
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/genericworker.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/genericworker.h
 config.h
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/config.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/config.h
 QtGui
 -
 stdint.h
@@ -166,7 +166,7 @@ RCISMousePicker.h
 Laser.h
 -
 
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/main.cpp
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/main.cpp
 signal.h
 -
 QtCore
@@ -184,17 +184,17 @@ rapplication/rapplication.h
 qlog/qlog.h
 -
 config.h
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/config.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/config.h
 genericmonitor.h
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/genericmonitor.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/genericmonitor.h
 genericworker.h
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/genericworker.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/genericworker.h
 specificworker.h
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/specificworker.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/specificworker.h
 specificmonitor.h
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/specificmonitor.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/specificmonitor.h
 commonbehaviorI.h
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/commonbehaviorI.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/commonbehaviorI.h
 rcismousepickerI.h
 -
 Laser.h
@@ -204,35 +204,35 @@ DifferentialRobot.h
 RCISMousePicker.h
 -
 
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/moc_commonbehaviorI.cpp
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/moc_commonbehaviorI.cpp
 commonbehaviorI.h
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/commonbehaviorI.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/commonbehaviorI.h
 
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/moc_genericmonitor.cpp
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/moc_genericmonitor.cpp
 genericmonitor.h
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/genericmonitor.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/genericmonitor.h
 
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/moc_genericworker.cpp
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/moc_genericworker.cpp
 genericworker.h
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/genericworker.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/genericworker.h
 
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/moc_rcismousepickerI.cpp
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/moc_rcismousepickerI.cpp
 rcismousepickerI.h
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/rcismousepickerI.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/rcismousepickerI.h
 
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/moc_specificmonitor.cpp
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/moc_specificmonitor.cpp
 specificmonitor.h
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/specificmonitor.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/specificmonitor.h
 
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/moc_specificworker.cpp
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/moc_specificworker.cpp
 specificworker.h
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/specificworker.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/specificworker.h
 
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/rcismousepickerI.cpp
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/rcismousepickerI.cpp
 rcismousepickerI.h
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/rcismousepickerI.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/rcismousepickerI.h
 
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/rcismousepickerI.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/rcismousepickerI.h
 QtCore/QObject
 -
 Ice/Ice.h
@@ -242,21 +242,21 @@ RCISMousePicker.h
 config.h
 -
 genericworker.h
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/genericworker.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/genericworker.h
 
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/specificmonitor.cpp
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/specificmonitor.cpp
 specificmonitor.h
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/specificmonitor.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/specificmonitor.h
 
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/specificmonitor.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/specificmonitor.h
 genericmonitor.h
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/genericmonitor.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/genericmonitor.h
 
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/specificworker.cpp
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/specificworker.cpp
 specificworker.h
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/specificworker.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/specificworker.h
 
-/home/salabeta/robocomp/components/CarrozaGarcia/Practica1/choca/src/specificworker.h
+/home/jose/robocomp/components/CarrozaGarcia/bug-controller/choca/src/specificworker.h
 genericworker.h
 -
 innermodel/innermodel.h
